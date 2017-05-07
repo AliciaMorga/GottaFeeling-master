@@ -1,0 +1,349 @@
+Category,Feeling
+Happy,glad
+Happy,good
+Happy,contented
+Happy,satisfied
+Happy,gratified
+Happy,pleasant
+Happy,pleased
+Happy,fine
+Happy,cheerful
+Happy,light-hearted
+Happy,neat
+Happy,happy
+Happy,serene
+Happy,wonderful
+Happy,up
+Happy,aglow
+Happy,glowing
+Happy,in high spirits
+Happy,jovial
+Happy,riding high
+Happy,elevated
+Happy,thrilled
+Happy,on cloud nine
+Happy,ecstatic
+Happy,overjoyed
+Happy,excited
+Happy,elated
+Happy,sensational
+Happy,exhilarated
+Happy,fantastic
+Happy,terrific
+Happy,on top of the world
+Happy,open
+Happy,enthusiastic
+Happy,delighted
+Happy,marvelous
+Happy,great
+Caring,warm
+Caring,friendly
+Caring,like
+Caring,positive
+Caring,caring
+Caring,fond
+Caring,regard
+Caring,respectful 
+Caring,admiration
+Caring,concern
+Caring,attracted
+Caring,esteem
+Caring,charmed
+Caring,turned on
+Caring,trust
+Caring,close
+Caring,tenderness
+Caring,affection
+Caring,captivated
+Caring,attached
+Caring,devotion
+Caring,adoration
+Caring,loving
+Caring,infatuated
+Caring,enamored
+Caring,nurturing
+Caring,idolizing
+Caring,passion
+Caring,worshipful
+Confused,uncertain
+Confused,unsure
+Confused,bothered
+Confused,uncomfortable
+Confused,undecided
+Confused,mixed up
+Confused,disorganized
+Confused,foggy
+Confused,troubled
+Confused,adrift
+Confused,lost
+Confused,at loose ends
+Confused,embroiled
+Confused,disoriented
+Confused,disconnected
+Confused,frustrated
+Confused,in a bind
+Confused,ambivalent
+Confused,disturbed
+Confused,helpless
+Confused,bewildered
+Confused,puzzled
+Confused,baffled
+Confused,perplexed
+Confused,trapped
+Confused,confounded
+Confused,in a dilemma
+Confused,befuddled
+Confused,confused
+Confused,in a quandry
+Confused,full of questions
+Sad,unhappy
+Sad,down
+Sad,low
+Sad,bad
+Sad,blah
+Sad,disappointed
+Sad,sad
+Sad,glum
+Sad,distressed
+Sad,upset
+Sad,downcast
+Sad,sorrowful
+Sad,demoralized
+Sad,discouraged
+Sad,miserable
+Sad,pessimistic
+Sad,tearful
+Sad,weepy
+Sad,rotten
+Sad,awful
+Sad,horrible
+Sad,terrible
+Sad,blue
+Sad,lost
+Sad,melancholy
+Sad,desolate
+Sad,dejected
+Sad,hopeless
+Sad,alienated
+Sad,depressed
+Sad,gloomy
+Sad,dismal
+Sad,bleak
+Sad,in despair
+Sad,empty
+Sad,bereft
+Sad,grieved
+Sad,grief
+Sad,grim
+Angry,uptight
+Angry,disgusted
+Angry,bugged
+Angry,turned off
+Angry,put out
+Angry,miffed
+Angry,irked
+Angry,perturbed
+Angry,ticked off
+Angry,teed off
+Angry,chagrined
+Angry,cross
+Angry,dismayed
+Angry,impatient
+Angry,resentful
+Angry,irritated
+Angry,hostile
+Angry,annoyed
+Angry,upset
+Angry,agitated
+Angry,mad
+Angry,angry
+Angry,aggravated
+Angry,offended
+Angry,antagonistic
+Angry,exasperated
+Angry,belligerent
+Angry,mean
+Angry,vexed
+Angry,spiteful
+Angry,vindictive
+Angry,furious
+Angry,enraged
+Angry,seething
+Angry,outraged
+Angry,infuriated
+Angry,burned up
+Angry,pissed off
+Angry,fighting mad
+Angry,nauseated
+Angry,violent
+Angry,indignant
+Angry,hatred
+Angry,bitter
+Angry,galled
+Angry,vengeful
+Angry,hateful
+Angry,vicious
+Inadequate,insecure
+Inadequate,unsure
+Inadequate,uncertain
+Inadequate,weak
+Inadequate,inefficient
+Inadequate,inadequate
+Inadequate,whipped
+Inadequate,defeated
+Inadequate,incompetent
+Inadequate,inept
+Inadequate,overwhelmed
+Inadequate,ineffective
+Inadequate,lacking
+Inadequate,deficient
+Inadequate,unable
+Inadequate,incapable
+Inadequate,small
+Inadequate,unfit
+Inadequate,unimportant
+Inadequate,incomplete
+Inadequate,no good
+Inadequate,immobilized
+Inadequate,worthless
+Inadequate,good for nothing
+Inadequate,washed up
+Inadequate,powerless
+Inadequate,helpless
+Inadequate,impotent
+Inadequate,crippled
+Inadequate,inferior
+Inadequate,emasculated
+Inadequate,useless
+Inadequate,finished
+Inadequate,like a failure
+Hurt,put down
+Hurt,neglected
+Hurt,overlooked
+Hurt,minimized
+Hurt,let down
+Hurt,unappreciated
+Hurt,taken for granted
+Hurt,hurt
+Hurt,belittled
+Hurt,shot down
+Hurt,overlooked
+Hurt,abused
+Hurt,depreciated
+Hurt,criticized
+Hurt,defamed
+Hurt,censured
+Hurt,discredited
+Hurt,disparaged
+Hurt,laughed at
+Hurt,maligned
+Hurt,mistreated
+Hurt,ridiculed
+Hurt,devalued
+Hurt,scorned
+Hurt,mocked
+Hurt,scoffed at
+Hurt,used
+Hurt,exploited
+Hurt,debased
+Hurt,slammed
+Hurt,slandered
+Hurt,impugned
+Hurt,cheapened
+Hurt,crushed
+Hurt,destroyed
+Hurt,ruined
+Hurt,degraded
+Hurt,pained
+Hurt,wounded
+Hurt,devastated
+Hurt,tortured
+Hurt,disgraced
+Hurt,humiliated
+Hurt,anguished
+Hurt,tormented
+Hurt,cast off
+Hurt,forsaken
+Hurt,rejected
+Hurt,discarded
+Fearful,nervous
+Fearful,anxious
+Fearful,unsure
+Fearful,hesitant
+Fearful,timid
+Fearful,shy
+Fearful,worried
+Fearful,uneasy
+Fearful,bashful
+Fearful,embarassed
+Fearful,ill at ease
+Fearful,doubtful
+Fearful,jittery
+Fearful,on edge
+Fearful,uncomfortable
+Fearful,self-conscious
+Fearful,afraid
+Fearful,scared
+Fearful,fearful
+Fearful,apprehensive
+Fearful,jumpy
+Fearful,shaky
+Fearful,threatened
+Fearful,distrustful
+Fearful,risky
+Fearful,alarmed
+Fearful,butterflies
+Fearful,awkward
+Fearful,defensive
+Fearful,terrified
+Fearful,frightened
+Fearful,intimidated
+Fearful,horrified
+Fearful,desperate
+Fearful,panicky
+Fearful,terror-stricken
+Fearful,vulnerable
+Fearful,stage fright
+Fearful,dread
+Fearful,paralyzed
+Lonely,left out
+Lonely,excluded
+Lonely,lonesome
+Lonely,distant
+Lonely,aloof
+Lonely,lonely
+Lonely,alienated
+Lonely,estranged
+Lonely,remote
+Lonely,alone
+Lonely,apart
+Lonely,insulated
+Lonely,isolated
+Lonely,abandoned
+Lonely,all alone
+Lonely,forsaken
+Lonely,cut off
+Guilt/Shame,regretful
+Guilt/Shame,wrong
+Guilt/Shame,embarrassed
+Guilt/Shame,at fault
+Guilt/Shame,in error
+Guilt/Shame,responsible
+Guilt/Shame,bungling
+Guilt/Shame,fumbling
+Guilt/Shame,lament
+Guilt/Shame,ashamed
+Guilt/Shame,guilty
+Guilt/Shame,remorseful
+Guilt/Shame,crummy
+Guilt/Shame,to blame
+Guilt/Shame,less respectable
+Guilt/Shame,demeaned
+Guilt/Shame,sick at heart
+Guilt/Shame,exposed
+Guilt/Shame,unforgivable
+Guilt/Shame,humiliated
+Guilt/Shame,disgraced
+Guilt/Shame,degraded
+Guilt/Shame,horrible
+Guilt/Shame,mortified

@@ -1,0 +1,14 @@
+/* Twitter.strings - English */
+
+"Cancel" = "Cancelar";
+"OK" = "OK";
+"Login" = "Login";
+"CreateATwitterAccount" = "Crear una cuenta de Twitter";
+"UpdatingStatus" = "Actualizando estado ...";
+"SigningIn" = "Ingresandote ...";
+"Send" = "Send";
+"NewMessage" = "New Message";
+"Username" = "Nombre du Usuario";
+"Password" = "Contraseña";
+"Required" = "Required";
+"ShorteningLinks" = "Shortening linls ...";

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Title</key>
+	<string>Settings</string>
+	<key>TitleKey</key>
+	<string>title</string>
+	<key>Strings Filename</key>
+	<string>Localizable</string>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>What should I call you?</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>First Name</string>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+			<key>Key</key>
+			<string>firstName</string>
+			<key>AllowLeadingSpaces</key>
+			<false/>
+			<key>DontTrimText</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Play Sounds?</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>DefaultValue</key>
+			<true/>
+			<key>Key</key>
+			<string>playSounds</string>
+			<key>Hidden</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Would you like reminders?</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Title</key>
+			<string>Remind Me</string>
+			<key>Key</key>
+			<string>reminderFreq</string>
+			<key>DefaultValue</key>
+			<string>1</string>
+			<key>Titles</key>
+			<array>
+				<string>Never</string>
+				<string>Once a day</string>
+				<string>Twice a day</string>
+				<string>Four times a day</string>
+			</array>
+			<key>Values</key>
+			<array>
+				<string>0</string>
+				<string>1</string>
+				<string>2</string>
+				<string>4</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string></string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>CustomCell</key>
+			<string>SettingsButtonCell</string>
+			<key>Title</key>
+			<string>Export Recorded Data</string>
+			<key>Type</key>
+			<string>Custom</string>
+		</dict>
+        <dict>
+			<key>Title</key>
+			<string>About gottaFeeling</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>CustomCell</key>
+			<string>SettingsButtonCell</string>
+			<key>Title</key>
+			<string>Frequently Asked Questions</string>
+			<key>Type</key>
+			<string>Custom</string>
+		</dict>
+		<dict>
+			<key>CustomCell</key>
+			<string>SettingsButtonCell</string>
+			<key>Title</key>
+			<string>Send Feedback</string>
+			<key>Type</key>
+			<string>Custom</string>
+		</dict>
+	</array>
+</dict>
+</plist>

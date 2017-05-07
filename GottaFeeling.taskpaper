@@ -1,0 +1,6 @@
+CONTENT FOR NEXT REPORT
+
+- Previously if you changed the number of time to be notified per day:
+	- the setting would not be saved until you switched to another tab (we now save it immediately)
+	- notifications would not be re-registered until the application was suspended (we now re-register them immediatedly)
+

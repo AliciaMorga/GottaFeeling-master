@@ -1,0 +1,21 @@
+# xcode noise
+build/*
+Releases/*
+*.pbxuser
+*.mode1v3
+*.perspectivev3
+xcuserdata
+
+# osx noise
+.DS_Store
+profile
+
+# Mercurial noise
+*/.hg
+
+# three20 noise
+plugins/three20/.DS_Store
+plugins/three20/build
+plugins/three20/*.pbxuser
+plugins/three20/*.perspectivev3
+plugins/three20/*.mode1v3
